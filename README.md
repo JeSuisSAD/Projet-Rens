@@ -1,2 +1,2 @@
 # Projet-Rens
-Un projet permattant de travailler l'identification.
+Un projet Unity permettant de travailler l'identification.
